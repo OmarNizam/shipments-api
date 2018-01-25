@@ -1,0 +1,7 @@
+{
+  "name": "shipments-api",
+  "version": "1.0.0",
+  "description": "RESTful API to manage shipments",
+  "main": "app.js",
+  "license": "MIT"
+}
